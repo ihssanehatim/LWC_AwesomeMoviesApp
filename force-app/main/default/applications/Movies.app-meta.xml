@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>App manages movies catalog</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>AwesomeMoviesApp</label>
+    <tabs>My_Awesome_Movies</tabs>
+    <navType>Standard</navType>
+    <uiType>Lightning</uiType>
+</CustomApplication>
